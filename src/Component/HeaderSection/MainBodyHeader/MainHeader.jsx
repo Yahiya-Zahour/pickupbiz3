@@ -31,7 +31,7 @@ export const MainHeader = () => {
                  <br/>
                   <Button variant="info">Login</Button>{' '}
                   <br/><br/>
-                  <button className="forget">Forget Password</button> 
+                  <button className="forget">Forget password</button> 
                 </Form>
             </div>
         </div>
