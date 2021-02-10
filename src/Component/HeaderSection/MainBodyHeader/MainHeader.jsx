@@ -37,6 +37,18 @@ export const MainHeader = () => {
                   <button className="forget">Forget password</button> 
                   <button className="forget">Forget password</button> 
                    <button className="forget">Forget password</button>  <button className="forget">Forget password</button> 
+                   <button className="forget">Forget password</button> 
+                  <button className="forget">Forget password</button> 
+                  
+                  <button className="forget">Forget password</button> 
+                  <button className="forget">Forget password</button> 
+                   <button className="forget">Forget password</button>  <button className="forget">Forget password</button> 
+                   <button className="forget">Forget password</button> 
+                  <button className="forget">Forget password</button> 
+                  
+                  <button className="forget">Forget password</button> 
+                  <button className="forget">Forget password</button> 
+                   <button className="forget">Forget password</button>  <button className="forget">Forget password</button> 
                
                 </Form>
             </div>
