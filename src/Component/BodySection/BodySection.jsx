@@ -44,6 +44,7 @@ export const BodySection = () => {
 </Carousel>
  
 <button>login</button>
+<button>login</button>
         </div>
     );
 };
