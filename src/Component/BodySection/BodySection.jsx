@@ -44,6 +44,10 @@ export const BodySection = () => {
       </Carousel>
 <button>sumbit</button>
 <button>sumbit</button>
+<button>sumbit</button>
+<button>sumbit</button>
+
+
    
 
 
