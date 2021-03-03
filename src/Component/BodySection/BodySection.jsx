@@ -42,9 +42,7 @@ export const BodySection = () => {
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-<button>login</button>
-<button>login</button>
-<button>login</button>
+
 
 
    
