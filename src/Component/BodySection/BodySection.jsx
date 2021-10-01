@@ -6,6 +6,7 @@ export const BodySection = () => {
 <button>login</button>
 <button>login</button>
 <input type="text" />
+<button>login</button>
 <input type="text" />
 
     </div>
